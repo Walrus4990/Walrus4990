@@ -34,6 +34,3 @@ what makes the engineering work useful.
 Data engineering roles or public sector digital infrastructure 
 projects in Berlin. Open to freelance and permanent positions.
 
-## Connect
-
-[LinkedIn](your linkedin url)
