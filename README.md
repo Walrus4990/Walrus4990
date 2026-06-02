@@ -1,47 +1,39 @@
-## Hi there 👋
+## Hi there
 
+I'm Karin, a data engineer with a background in public sector policy 
+and monitoring and evaluation.
 
-I'm Karin, new to programming and tech, keen to learn everything I can.
+## What I do
 
+I build data infrastructure for public sector organisations — 
+pipelines, dashboards, and the plumbing that turns raw data into 
+something decision-makers can actually use.
 
-## 🌱 About Me
+My current project: an automated pipeline for Berlin traffic sensor 
+data, built with Bezirksamt Tempelhof-Schöneberg and the CityLAB 
+Data Hub. It ingests, cleans and aggregates data from 20-30 sensors 
+across the borough and surfaces it via an interactive dashboard. 
+Stack: Airflow, MinIO, PostgreSQL, Superset, Docker, Kubernetes.
 
+## Background
 
-My background is in:
+Before moving into data engineering I worked in:
 
-- **Social protection**, that includes large public programmes such as unemployment insurance, disability and housing support, or social work.
-- **Monitoring and Evaluation (M&E)**, which is about understanding whether (public) programmes achieve what they set out to. In practice, this includes data collection and analysis, or theories of change and logframes
-- I know a bit about **running a company**, I set up and ran the EU office for a consulting firm.
+- **Public sector policy** — social protection, unemployment insurance, 
+  disability and housing support
+- **Monitoring and Evaluation** — data collection and analysis, 
+  theories of change, programme evaluation
+- **Consulting** — set up and ran the EU office for a consulting firm
 
+This background is not a detour. Understanding what public sector 
+organisations need from data, and why they struggle to get it, is 
+what makes the engineering work useful.
 
-## 💻 What I’m Learning
+## Currently looking for
 
+Data engineering roles or public sector digital infrastructure 
+projects in Berlin. Open to freelance and permanent positions.
 
-- The basics of Python and Git/GitHub
-- Data Engineering at Le Wagon https://www.lewagon.com/data-engineering-course
+## Connect
 
-  
-## 📫 Connect With Me
-
-
-I'm still getting set up, but feel free to connect or reach out if you share similar interests or have advice for someone just starting out.
-
----
-
-Thanks for stopping by 👋
-
-
-<!--
-**Walrus4990/Walrus4990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](your linkedin url)
